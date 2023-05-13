@@ -36,7 +36,6 @@
       <artifactId>google-static-map-creator</artifactId>
       <version>2.3.0</version>
     </dependency>
-    <packaging>war</packaging>
   </dependencies>
 
   <build>
